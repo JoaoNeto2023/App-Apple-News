@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6D19BFF-A746-47C4-A6CF-6D5E0FC9EAEE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C977F8EF-C3D8-4733-B7B3-705EA93AE783"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppAppleNews/DataProvider/LocalRepository/NewsListRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getNewsList(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C977F8EF-C3D8-4733-B7B3-705EA93AE783 - a64f88227c502ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppAppleNews.NewsListRepository.getNewsList(completion: (Swift.Optional&lt;Swift.Array&lt;AppAppleNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppAppleNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joaoneto/Projeto/Projeto%20App%20Apple%20News/AppAppleNews/AppAppleNews/DataProvider/LocalRepository/NewsListRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "C977F8EF-C3D8-4733-B7B3-705EA93AE783 - a64f88227c502ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppAppleNews.NewsListRepository.getNewsList(completion: (Swift.Optional&lt;Swift.Array&lt;AppAppleNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppAppleNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joaoneto/Projeto/Projeto%20App%20Apple%20News/AppAppleNews/AppAppleNews/DataProvider/LocalRepository/NewsListRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "C977F8EF-C3D8-4733-B7B3-705EA93AE783 - a64f88227c502ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppAppleNews.NewsListRepository.getNewsList(completion: (Swift.Optional&lt;Swift.Array&lt;AppAppleNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppAppleNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joaoneto/Projeto/Projeto%20App%20Apple%20News/AppAppleNews/AppAppleNews/DataProvider/LocalRepository/NewsListRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "C977F8EF-C3D8-4733-B7B3-705EA93AE783 - a64f88227c502ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppAppleNews.NewsListRepository.getNewsList(completion: (Swift.Optional&lt;Swift.Array&lt;AppAppleNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppAppleNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joaoneto/Projeto/Projeto%20App%20Apple%20News/AppAppleNews/AppAppleNews/DataProvider/LocalRepository/NewsListRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
